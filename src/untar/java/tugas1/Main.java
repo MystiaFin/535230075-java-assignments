@@ -1,4 +1,4 @@
-package inventoryapp;
+package untar.java.tugas1;
 
 import javax.swing.*;
 import java.awt.*;
